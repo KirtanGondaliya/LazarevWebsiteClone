@@ -705,7 +705,7 @@ page16elem2.addEventListener("click", () => {
 
 
 
-// NavAnimation()
+NavAnimation()
 // LocomotiveAnimation()
 Page2Animation();
 Page3Animation();
